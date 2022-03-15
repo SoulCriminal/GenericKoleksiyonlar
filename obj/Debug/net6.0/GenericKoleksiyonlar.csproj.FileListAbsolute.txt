@@ -1,0 +1,15 @@
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\bin\Debug\net6.0\GenericKoleksiyonlar.exe
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\bin\Debug\net6.0\GenericKoleksiyonlar.deps.json
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\bin\Debug\net6.0\GenericKoleksiyonlar.runtimeconfig.json
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\bin\Debug\net6.0\GenericKoleksiyonlar.dll
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\bin\Debug\net6.0\ref\GenericKoleksiyonlar.dll
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\bin\Debug\net6.0\GenericKoleksiyonlar.pdb
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.AssemblyInfo.cs
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.dll
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\ref\GenericKoleksiyonlar.dll
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.pdb
+C:\Users\MGM\Desktop\VsCode\C#\GenericKoleksiyonlar\obj\Debug\net6.0\GenericKoleksiyonlar.genruntimeconfig.cache
